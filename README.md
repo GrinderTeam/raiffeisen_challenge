@@ -6,15 +6,9 @@ raiffeisen challenge 2020
 > in each directory you must commit like:
       "You name" _ "what did you do" _ "When" . "type"
 
-data
-----
-#### -external
->     data ready to build a model
-#### -processed
->     data in processing
-#### -raw
->     raw data
-
+data & submissions
+------------------
+> data save here:[![Open in Google Drive](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Google_Drive.svg/30px-Logo_of_Google_Drive.svg.png)](https://docs.google.com/spreadsheets/d/14RkFQVcELT4R4tepolDHSv1nfU5b0TTRX8awaX1gVh0/edit?pli=1#gid=0)
 models
 ------
 
@@ -30,8 +24,3 @@ reports
 -------
 
 > pictures, graphics, etc. 
- 
-submissions
------------
-
->all submissions that you had
